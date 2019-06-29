@@ -22,17 +22,17 @@ tags:
 
 来看题：
 
-![image.png](https://upload-images.jianshu.io/upload_images/15803937-1d7a45e2a46eecf5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/%E9%A2%98%E7%9B%AE1.png?raw=true)
 
-![image.png](https://upload-images.jianshu.io/upload_images/15803937-3d8a646b176d1db3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/%E9%A2%98%E7%9B%AE2.png?raw=true)
 
-![image.png](https://upload-images.jianshu.io/upload_images/15803937-052c685a38a84862.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/%E9%A2%98%E7%9B%AE3.png?raw=true)
 
 这道题就是我在朋友圈里吐槽“**审题半小时，做题两分钟**”的那道。
 
-![image.png](https://upload-images.jianshu.io/upload_images/15803937-a27d1a27e877f0b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/%E5%90%90%E6%A7%BD1.png?raw=true)
 
-![image.png](https://upload-images.jianshu.io/upload_images/15803937-967c411ddd27cd4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/%E5%90%90%E6%A7%BD2.png?raw=true)
 
 可能是很久没做算法题了，反应有点迟钝，看了半天才看懂这道题的意思。
 
@@ -62,25 +62,25 @@ tags:
 先给大家几张维基百科的图片感受下，熟悉这些排序的朋友可以在脑海里模拟一下排序。
 
 快速排序：
-![Sorting_quicksort_anim.gif](https://upload-images.jianshu.io/upload_images/15803937-773e337ea77164db.gif?imageMogr2/auto-orient/strip)
+![Sorting_quicksort_anim.gif](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/Sorting_quicksort_anim.gif?raw=true)
 
 冒泡排序：
-![Bubble_sort_animation.gif](https://upload-images.jianshu.io/upload_images/15803937-bd4df3a02fec7298.gif?imageMogr2/auto-orient/strip)
+![Bubble_sort_animation.gif](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/Bubble_sort_animation.gif?raw=true)
 
 选择排序：
-![Selection_sort_animation.gif](https://upload-images.jianshu.io/upload_images/15803937-52d0d363fbbfca0e.gif?imageMogr2/auto-orient/strip)
+![Selection_sort_animation.gif](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/Selection_sort_animation.gif?raw=true)
 
 归并排序：
-![Merge_sort_animation2.gif](https://upload-images.jianshu.io/upload_images/15803937-36c0464bd9d5704c.gif?imageMogr2/auto-orient/strip)
+![Merge_sort_animation2.gif](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/Merge_sort_animation2.gif?raw=true)
 
 插入排序：
-![Insertion_sort_animation.gif](https://upload-images.jianshu.io/upload_images/15803937-483f4317918cb6bb.gif?imageMogr2/auto-orient/strip)
+![Insertion_sort_animation.gif](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/Insertion_sort_animation.gif?raw=true)
 
 希尔排序：
-![Sorting_shellsort_anim.gif](https://upload-images.jianshu.io/upload_images/15803937-75dfbaf13bfdcb06.gif?imageMogr2/auto-orient/strip)
+![Sorting_shellsort_anim.gif](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/Sorting_shellsort_anim.gif?raw=true)
 
 堆排序：
-![Sorting_heapsort_anim.gif](https://upload-images.jianshu.io/upload_images/15803937-1f1a93530fabee19.gif?imageMogr2/auto-orient/strip)
+![Sorting_heapsort_anim.gif](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-28-LeetCode%E5%88%B7%E9%A2%98%E4%B9%8B%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I/Sorting_heapsort_anim.gif?raw=true)
 
 下期更精彩，我们下期见，我们下期见~
 
