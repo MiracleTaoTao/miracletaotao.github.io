@@ -79,4 +79,4 @@ classId:10003,studentList:[Student [classId=10003, name=诸葛亮, studentId=100
 
 欢迎关注我的微信公众号：**一辈子的码农先生**，接下来会有非常多的干货总结，这也是我对自己几年工作的一种总结和交代。谢谢大家！
 
-![我的公众号二维码.jpg](https://upload-images.jianshu.io/upload_images/15803937-cf5cc8e020d67f43.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![我的公众号二维码.jpg](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-06-29-%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F%E4%B9%8B%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg?raw=true)
