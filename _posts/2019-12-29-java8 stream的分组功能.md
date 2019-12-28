@@ -23,30 +23,21 @@ class Dto{
     List<Student> list;
 }
 ```
-​											
-
-​	                                          这时，前端妹妹评估了下改动程度，眼泪汪汪地看着我
-
-![小哥哥](https://upload-images.jianshu.io/upload_images/15803937-7a2e6e189acc0b62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-​                                                                  
-
-​                                                                   我瞬间明白了，我表现的机会到了！
-​                                                             我说道：这样吧！前端不动，后端来处理！
-
-![我来](https://upload-images.jianshu.io/upload_images/15803937-43583ba3f1ebd194.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-
-​                                                                                  后端不能说不行！
-
-![后端不能说不行](https://upload-images.jianshu.io/upload_images/15803937-81eab7d623a2124b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center>这时，前端妹妹评估了下改动程度，眼泪汪汪地看着我</center>
+![小哥哥](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-12-29-java8%20stream%E7%9A%84%E5%88%86%E7%BB%84%E5%8A%9F%E8%83%BD/%E5%B0%8F%E5%93%A5%E5%93%A5.jpg?raw=true)
 
 
+<center>我瞬间明白了，我表现的机会到了！</center>
+<center>我说道：这样吧！前端不动，后端来处理！</center>
+![我来](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-12-29-java8%20stream%E7%9A%84%E5%88%86%E7%BB%84%E5%8A%9F%E8%83%BD/%E6%88%91%E6%9D%A5.jpg?raw=true)
 
-​                                                仔细看了下数据，运用java 8 stream分组功能轻松解决。
+<center>后端不能说不行！</center>
+![后端不能说不行](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-12-29-java8%20stream%E7%9A%84%E5%88%86%E7%BB%84%E5%8A%9F%E8%83%BD/%E5%90%8E%E7%AB%AF%E4%B8%8D%E8%83%BD%E8%AF%B4%E4%B8%8D%E8%A1%8C.jpg?raw=true)
 
-![轻松搞定](https://upload-images.jianshu.io/upload_images/15803937-747d61c3ea132acb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center>仔细看了下数据，运用java 8 stream分组功能轻松解决。</center>
+![轻松搞定](https://github.com/MiracleTaoTao/miracletaotao.github.io/blob/master/_posts/2019-12-29-java8%20stream%E7%9A%84%E5%88%86%E7%BB%84%E5%8A%9F%E8%83%BD/%E8%BD%BB%E6%9D%BE%E6%90%9E%E5%AE%9A.jpg?raw=true)
 
 
 
